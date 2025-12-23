@@ -11,8 +11,8 @@ Materiales para el curso **El uso del monitor interactivo** para docentes civile
 * Presentación del curso y entorno de trabajo (monitor interactivo, repositorios, laboratorios).
 * Monitor interactivo vs. pizarra digital.
 * Elementos hardware del monitor.
-* Software del monitor.
-* **LABORATORIO 1**: Funcionalidades básicas del monitor interectivo.
+* Software del monitor. Funcionalidades.
+* **LABORATORIO 1**: Funcionalidades básicas del monitor interactivo.
 
 ---
 
