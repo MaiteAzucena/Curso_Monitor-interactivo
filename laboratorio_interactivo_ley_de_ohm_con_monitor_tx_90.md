@@ -1,4 +1,4 @@
-# Laboratorio 1: Ley de Ohm usando monitor interactivo TX90
+# Laboratorio 1: Funcionalidades software del monitor interactivo
 
 ## 1. Descripción general
 Este laboratorio está diseñado para el curso **EL USO DEL MONITOR INTERACTIVO** centrado en el **uso didáctico del monitor interactivo TRAULUX TX90**, utilizando como hilo conductor un contenido técnico sencillo y conocido: **La Ley de Ohm**.
@@ -65,7 +65,7 @@ Al finalizar el laboratorio, seréis capaces de:
 
 ---
 
-### Fase 2 – Función 3.4.1: Recorte (Cut) (10 min)
+### Fase 2 – Función: Recorte (Cut) (10 min)
 
 **Objetivo:** aprender a capturar información relevante.
 
@@ -79,7 +79,7 @@ Al finalizar el laboratorio, seréis capaces de:
 
 ---
 
-### Fase 3 – Función 3.4.4: Pizarra (S-Write) (15 min)
+### Fase 3 – Función: Pizarra (S-Write) (15 min)
 
 **Objetivo:** usar la pizarra como espacio de razonamiento.
 
@@ -100,7 +100,7 @@ Al finalizar el laboratorio, seréis capaces de:
 
 ---
 
-### Fase 4 – Función 3.4.3: Lápiz / Capa de anotación (10 min)
+### Fase 4 – Función: Lápiz / Capa de anotación (10 min)
 
 **Objetivo:** anotar sobre cualquier contenido.
 
@@ -117,7 +117,7 @@ Al finalizar el laboratorio, seréis capaces de:
 
 ---
 
-### Fase 5 – Función 3.4.2: Activo y modo Split (10 min)
+### Fase 5 – Función: Activo y modo Split (10 min)
 
 **Objetivo:** trabajar con dos aplicaciones simultáneas.
 
@@ -131,7 +131,7 @@ Al finalizar el laboratorio, seréis capaces de:
 
 ---
 
-### Fase 6 – Función 3.4.6: Congelar pantalla (5 min)
+### Fase 6 – Función: Congelar pantalla (5 min)
 
 **Objetivo:** controlar la atención del alumnado.
 
@@ -145,7 +145,7 @@ Al finalizar el laboratorio, seréis capaces de:
 
 ---
 
-### Fase 7 – Función 3.4.5 y 3.4.7: Explorador de archivos y Favoritos (5 min)
+### Fase 7 – Función: Explorador de archivos y Favoritos (5 min)
 
 1. Abrir el **explorador de archivos**.
 2. Localizar:
@@ -173,27 +173,10 @@ Preguntas para los participantes:
 ## 7. Licencia y reutilización
 
 Este material puede reutilizarse y adaptarse libremente para formación docente.
-
-Sugerencia de licencia para GitHub:
-
 - **Creative Commons BY-SA 4.0**
 
 ---
 
-## 8. Estructura recomendada del repositorio GitHub
-
-```
-/monitor-interactivo-ley-ohm
-│
-├── README.md   (este documento)
-├── recursos/
-│   ├── capturas/
-│   └── ejemplos/
-└── licencia.md
-```
-
----
-
 **Autor/a:** Maite A. González Rodríguez  
-**Contexto:** Formación en uso del monitor interactivo TX90
+**Contexto:** Formación en uso del monitor interactivo
 
