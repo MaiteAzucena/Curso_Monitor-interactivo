@@ -178,5 +178,5 @@ Este material puede reutilizarse y adaptarse libremente para formación docente.
 ---
 
 **Autor/a:** Maite A. González Rodríguez  
-**Contexto:** Formación en uso del monitor interactivo
+**Contexto:** Formación en el uso del monitor interactivo
 
