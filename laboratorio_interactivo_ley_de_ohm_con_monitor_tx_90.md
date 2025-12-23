@@ -1,9 +1,9 @@
-# Laboratorio interactivo: Ley de Ohm usando monitor interactivo TX90
+# Laboratorio 1: Ley de Ohm usando monitor interactivo TX90
 
 ## 1. Descripción general
-Este laboratorio está diseñado para un **curso de formación del profesorado / compañeros** centrado en el **uso didáctico del monitor interactivo TRAULUX TX90**, utilizando como hilo conductor un contenido técnico sencillo y conocido: **la Ley de Ohm**.
+Este laboratorio está diseñado para el curso **EL USO DEL MONITOR INTERACTIVO** centrado en el **uso didáctico del monitor interactivo TRAULUX TX90**, utilizando como hilo conductor un contenido técnico sencillo y conocido: **La Ley de Ohm**.
 
-El objetivo no es profundizar en electrónica, sino **aprender a utilizar las funcionalidades del monitor (apartado 3.4.1 a 3.4.7 del manual)** en una situación de aula realista, participativa y replicable.
+El objetivo no es profundizar en electrónica, sino **aprender a utilizar las funcionalidades del monitor** en una situación de aula realista, participativa y replicable.
 
 El laboratorio está pensado para realizarse de forma **presencial, colaborativa y guiada**, con una duración aproximada de **60–75 minutos**.
 
@@ -12,7 +12,7 @@ El laboratorio está pensado para realizarse de forma **presencial, colaborativa
 ## 2. Objetivos del laboratorio
 
 ### 2.1. Objetivos técnicos (monitor interactivo)
-Al finalizar el laboratorio, los participantes serán capaces de:
+Al finalizar el laboratorio, seréis capaces de:
 
 - Utilizar el **recorte (Cut)** para capturar información relevante.
 - Trabajar con **aplicaciones activas y modo dividido (Split)**.
@@ -36,7 +36,7 @@ Al finalizar el laboratorio, los participantes serán capaces de:
   - V = I · R
 - Contenido base:
   - Artículo de Wikipedia: Ley de Ohm
-  - Manual del monitor TX90 – apartado 3.4 (Funcionalidades)
+  - Manual del monitor TX90
 
 ---
 
