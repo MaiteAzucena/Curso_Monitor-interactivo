@@ -1,20 +1,20 @@
-# Laboratorio práctico: Configuración del monitor interactivo TX90 (3.4.8)
+# Laboratorio 2: Configuración del monitor interactivo
 
 ## 1. Descripción general
-Este laboratorio práctico está diseñado para el **alumnado**, con el objetivo de trabajar de forma guiada y aplicada el **apartado 3.4.8 – Configuración** del monitor interactivo **TRAULUX TX90**.
+Este laboratorio está diseñado con el objetivo de trabajar de forma guiada y aplicada todos los aspectos relacionados con **la configuración** del monitor interactivo.
 
 La actividad se plantea como una **simulación de puesta en marcha y personalización de un aula digital**, donde el alumnado asume el rol de **técnico/a de soporte TIC**, responsable de dejar el monitor correctamente configurado para su uso docente.
 
-El laboratorio está pensado para una sesión de **60 minutos**, fomentando el aprendizaje activo, el trabajo cooperativo y la toma de decisiones razonadas.
+El laboratorio está pensado para realizarse de forma presencial, colaborativa y guiada, con una duración aproximada de 60 minutos.
 
 ---
 
 ## 2. Objetivos del laboratorio
 
 ### 2.1. Objetivos técnicos
-Al finalizar el laboratorio, el alumnado será capaz de:
+Al finalizar el laboratorio, seréis capaces de:
 
-- Acceder al menú de **Configuración** del monitor TX90.
+- Acceder al menú de **Configuración** del monitor.
 - Configurar correctamente las **opciones de red y conexiones**.
 - Ajustar parámetros de **idioma, fecha y hora**.
 - Personalizar el **fondo de pantalla (Wallpaper)**.
@@ -24,13 +24,13 @@ Al finalizar el laboratorio, el alumnado será capaz de:
 
 ### 2.2. Objetivos didácticos
 
-- Comprender la importancia de una correcta configuración inicial del equipamiento TIC.
+- Comprender la importancia de una correcta configuración inicial del monitor.
 - Relacionar la configuración del sistema con su **uso real en el aula**.
-- Fomentar la autonomía del alumnado en la gestión de dispositivos interactivos.
+- Fomentar vuestra la autonomía en la gestión de dispositivos interactivos.
 
 ---
 
-## 3. Contenidos trabajados (Manual TX90 – 3.4.8)
+## 3. Contenidos trabajados
 
 - Red y conexiones
 - Wallpaper (fondo de pantalla)
@@ -45,22 +45,14 @@ Al finalizar el laboratorio, el alumnado será capaz de:
 
 ## 4. Material necesario
 
-- Monitor interactivo TRAULUX TX90
+- Monitor interactivo
 - Conexión a red (Ethernet o WiFi)
 - Lápiz interactivo o dedo
-- Memoria USB con una imagen (opcional)
+- Memoria USB con una imagen (opcional para guardar capturas)
 
 ---
 
-## 5. Organización del alumnado
-
-- Trabajo en **parejas o tríos**.
-- Cada grupo actuará como **equipo técnico responsable del aula**.
-- El/la docente supervisa y valida cada fase.
-
----
-
-## 6. Desarrollo del laboratorio
+## 5. Desarrollo del laboratorio
 
 ### Fase 1 – Acceso al menú de configuración (5 min)
 
@@ -186,44 +178,26 @@ Al finalizar el laboratorio, el alumnado será capaz de:
 
 ---
 
-## 7. Cierre y evaluación
+## 6. Cierre y reflexión final
 
-### Puesta en común
+Preguntas para los participantes:
 
 - ¿Qué ajustes consideráis imprescindibles?
 - ¿Cuáles dejaríais bloqueados para el alumnado?
 - ¿Qué configuración cambiaríais según la materia?
 
-### Evaluación sugerida
-
-- Observación directa del trabajo en grupo.
-- Rúbrica sencilla basada en:
-  - Corrección técnica.
-  - Argumentación de decisiones.
-  - Trabajo cooperativo.
-
 ---
 
-## 8. Licencia y reutilización
+## 7. Licencia y reutilización
 
-Material reutilizable y adaptable.
-
-Licencia recomendada para GitHub:
-
+Este material puede reutilizarse y adaptarse libremente para formación docente.
 - **Creative Commons BY-SA 4.0**
 
 ---
 
-## 9. Estructura recomendada del repositorio GitHub
+**Autor/a:** Maite A. González Rodríguez  
+**Contexto:** Formación en el uso del monitor interactivo
 
-```
-/monitor-interactivo-configuracion
-│
-├── README.md   (este documento)
-├── recursos/
-│   └── imagenes-wallpaper/
-└── licencia.md
-```
 
 ---
 
