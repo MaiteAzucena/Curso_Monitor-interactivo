@@ -18,6 +18,10 @@ Materiales para el curso **El uso del monitor interactivo** para docentes civile
 
 ## Sesión 2 (2h)
 
+**Configuración**
+* Software del monitor. Configuración.
+* **LABORATORIO 2**: Configuración del monitor interactivo.
+
 ---
 
 ## Sesión 3 (2h)
