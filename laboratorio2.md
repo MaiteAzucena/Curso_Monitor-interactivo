@@ -198,9 +198,3 @@ Este material puede reutilizarse y adaptarse libremente para formación docente.
 **Autor/a:** Maite A. González Rodríguez  
 **Contexto:** Formación en el uso del monitor interactivo
 
-
----
-
-**Autor/a:** Maite A. González Rodríguez  
-**Contexto:** Laboratorio práctico con alumnado – Monitor interactivo TX90
-
