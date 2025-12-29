@@ -47,8 +47,8 @@ Al finalizar el laboratorio, seréis capaces de:
 
 - Monitor interactivo
 - Conexión a red (Ethernet o WiFi)
-- Lápiz interactivo o dedo
-- Memoria USB con una imagen (opcional para guardar capturas)
+- Lápiz interactivo (o dedo)
+- Memoria USB con una imagen (opcional)
 
 ---
 
