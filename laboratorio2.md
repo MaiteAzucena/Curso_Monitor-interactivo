@@ -81,6 +81,17 @@ Al finalizar el laboratorio, seréis capaces de:
    - Bluetooth.
    - Hot Spot.
 
+**Ejemplo práctico: Conexión de un móvil por Bluetooth para un listening (clase de Inglés)**
+**Situación**: Eres un(a) profesor(a) que quiere reproducir un audio de listening almacenado en tu teléfono móvil y escucharlo a través de los altavoces del monitor.
+Pasos a seguir:
+1. Activar el **Bluetooth** en el monitor desde **Red y conexiones**.
+2. Activar el **Bluetooth** en el teléfono móvil.
+3. Desde el monitor, buscar dispositivos disponibles y seleccionar el móvil.
+4. Aceptar la vinculación en ambos dispositivos.
+4. Reproducir el audio de listening en el móvil y comprobar que el sonido se escucha por los altavoces del monitor.
+
+📌 *Aplicación didáctica: esta configuración permite usar el monitor como sistema de audio del aula, facilitando actividades de comprensión oral sin necesidad de cables*.
+
 🛠️ **Actividad práctica:**
 - Decidir en qué situaciones es preferible usar **Ethernet** frente a **WiFi**.
 
