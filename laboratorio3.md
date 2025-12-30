@@ -1,7 +1,7 @@
 # Laboratorio práctico 3: Uso operativo avanzado
 
 ## 1. Descripción general
-Este laboratorio práctico tiene como finalidad que aprendáis a a manejar de forma autónoma y eficiente tres bloques fundamentales del monitor interactivo: el **explorador de aplicaciones**, la **selección de la fuente de entrada** y las **utilidades integradas**.
+Este laboratorio práctico tiene como finalidad que aprendáis a manejar de forma autónoma y eficiente tres bloques fundamentales del monitor interactivo: el **explorador de aplicaciones**, la **selección de la fuente de entrada** y las **utilidades integradas**.
 
 La sesión se plantea como una **simulación de una clase real**, en la que el alumnado debe alternar entre aplicaciones, dispositivos externos y herramientas del monitor para dar soporte a distintas actividades didácticas.
 
@@ -53,10 +53,10 @@ Al finalizar el laboratorio, seréis capaces de:
 1. Acceder al **explorador de aplicaciones** desde el menú HOME.
 2. Identificar las aplicaciones instaladas.
 3. Realizar las siguientes acciones:
-   - Abrir una aplicación.
+   - Abrir una aplicación (p.e. Microsoft Excel).
    - Cerrar una aplicación.
-   - Reagrupar aplicaciones en carpetas.
-4. (Opcional) Eliminar una aplicación no necesaria, bajo supervisión del docente.
+   - Reagrupar aplicaciones en carpetas (p.e. aplicaciones del paquete de Microsoft Office).
+4. (Opcional) Eliminar una aplicación no necesaria.
 
 📌 *Reflexión guiada:* ¿por qué es importante tener el entorno de aplicaciones organizado?
 
@@ -114,21 +114,35 @@ Trabajar, al menos, las siguientes utilidades:
 
 ---
 
-## 7. Actividad integradora final (10 min)
+## 6. Actividad integradora final (10 min)
 
+**Ejemplo práctico: Uso de una hoja de cálculo en una clase de FOL / Administración y Finanzas**
 **Situación:**
-> El docente debe explicar un contenido breve, controlar el tiempo de una actividad y resolver una duda rápidamente.
+> El alumnado está realizando una práctica sencilla con una hoja de cálculo para calcular el presupuesto mensual de una empresa o el salario neto de un trabajador (conceptos habituales en FOL o Administración y Finanzas).
 
-El grupo debe:
-- Seleccionar la fuente correcta.
-- Abrir la aplicación necesaria.
-- Utilizar al menos una utilidad del monitor.
+El/la docente necesita:
+- Mostrar un archivo (p.e. de Microsoft Excel) desde su ordenador.
+- Controlar el tiempo de la actividad.
+- Resolver una duda común proyectando un ejemplo.
 
-El grupo explicará al resto qué decisiones ha tomado y por qué.
+**Desarrollo de la actividad:**
+
+**1. Selección de la fuente de entrada**
+- Conectar el ordenador del docente al monitor (HDMI o USB-C).
+- Seleccionar la fuente de entrada correspondiente.
+**2. Uso del explorador de aplicaciones**
+- Abrir, desde Android, una utilidad del monitor (por ejemplo, cronómetro) sin cerrar la proyección del ordenador.
+**3. Uso de utilidades del monitor**
+- Activar un **cronómetro o cuenta atrás** para marcar el tiempo de la práctica.
+- Utilizar **Spotlight** para destacar una celda concreta (por ejemplo, la fórmula de cálculo).
+- Realizar una **captura de pantalla** del ejemplo resuelto para compartirlo posteriormente.
+
+**Cierre reflexivo:**
+El grupo explicará qué herramientas ha utilizado, en qué orden y por qué son adecuadas para una clase práctica con Excel..
 
 ---
 
-## 6. Cierre y reflexión final
+## 7. Cierre y reflexión final
 
 Preguntas para los participantes:
 
@@ -138,7 +152,7 @@ Preguntas para los participantes:
 
 ---
 
-## 7. Licencia y reutilización
+## 8. Licencia y reutilización
 
 Este material puede reutilizarse y adaptarse libremente para formación docente.
 - **Creative Commons BY-SA 4.0**
