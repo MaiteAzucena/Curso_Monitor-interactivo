@@ -1,18 +1,18 @@
-# Laboratorio práctico 3: Explorador de aplicaciones, fuentes de entrada y utilidades (TX90)
+# Laboratorio práctico 3: Uso operativo avanzado
 
 ## 1. Descripción general
-Este laboratorio práctico tiene como finalidad que el alumnado aprenda a manejar de forma autónoma y eficiente tres bloques fundamentales del monitor interactivo **TRAULUX TX90**: el **explorador de aplicaciones (3.4.10)**, la **selección de la fuente de entrada (3.4.11)** y las **utilidades integradas (3.4.12)**.
+Este laboratorio práctico tiene como finalidad que aprendáis a a manejar de forma autónoma y eficiente tres bloques fundamentales del monitor interactivo: el **explorador de aplicaciones**, la **selección de la fuente de entrada** y las **utilidades integradas**.
 
 La sesión se plantea como una **simulación de una clase real**, en la que el alumnado debe alternar entre aplicaciones, dispositivos externos y herramientas del monitor para dar soporte a distintas actividades didácticas.
 
-Duración estimada: **60–75 minutos**.
+El laboratorio está pensado para realizarse de forma presencial, colaborativa y guiada, con una duración aproximada de 60-75 minutos.
 
 ---
 
 ## 2. Objetivos del laboratorio
 
 ### 2.1. Objetivos técnicos
-Al finalizar el laboratorio, el alumnado será capaz de:
+Al finalizar el laboratorio, seréis capaces de:
 
 - Acceder y gestionar aplicaciones desde el **explorador de aplicaciones**.
 - Organizar aplicaciones en el entorno del monitor.
@@ -27,34 +27,26 @@ Al finalizar el laboratorio, el alumnado será capaz de:
 
 ---
 
-## 3. Contenidos trabajados (Manual TX90)
+## 3. Contenidos trabajados
 
-- 3.4.10 Explorador de aplicaciones
-- 3.4.11 Selección de la fuente de entrada
-- 3.4.12 Utilidades
+- Explorador de aplicaciones
+- Selección de la fuente de entrada
+- Utilidades
 
 ---
 
 ## 4. Material necesario
 
-- Monitor interactivo TRAULUX TX90
-- Ordenador portátil (HDMI o USB-C) y/o memoria USB
-- Lápiz interactivo o dedo
+- Monitor interactivo
 - Conexión a Internet
+- Lápiz interactivo (o dedo)
+- Ordenador portátil (HDMI o USB-C) y/o memoria USB
 
 ---
 
-## 5. Organización del alumnado
+## 5. Desarrollo del laboratorio
 
-- Trabajo en **parejas o tríos**.
-- Cada grupo actuará como **responsable de aula digital**.
-- El/la docente supervisa, guía y valida el desarrollo del laboratorio.
-
----
-
-## 6. Desarrollo del laboratorio
-
-### Fase 1 – Explorador de aplicaciones (3.4.10) (15 min)
+### Fase 1 – Explorador de aplicaciones (15 min)
 
 **Objetivo:** conocer y organizar las aplicaciones del monitor.
 
@@ -70,7 +62,7 @@ Al finalizar el laboratorio, el alumnado será capaz de:
 
 ---
 
-### Fase 2 – Selección de la fuente de entrada (3.4.11) (15 min)
+### Fase 2 – Selección de la fuente de entrada (15 min)
 
 **Objetivo:** aprender a cambiar entre diferentes dispositivos y fuentes.
 
@@ -92,7 +84,7 @@ Al finalizar el laboratorio, el alumnado será capaz de:
 
 ---
 
-### Fase 3 – Utilidades del monitor (3.4.12) (25–30 min)
+### Fase 3 – Utilidades del monitor (25–30 min)
 
 **Objetivo:** utilizar herramientas que dinamizan la clase.
 
@@ -136,47 +128,23 @@ El grupo explicará al resto qué decisiones ha tomado y por qué.
 
 ---
 
-## 8. Cierre y evaluación
+## 6. Cierre y reflexión final
 
-### Puesta en común
+Preguntas para los participantes:
 
 - ¿Qué utilidad os parece más práctica?
 - ¿Qué herramienta usaríais para captar la atención del grupo?
 - ¿Qué errores técnicos son más fáciles de cometer?
 
-### Evaluación sugerida
-
-- Observación directa.
-- Lista de cotejo:
-  - Manejo correcto del explorador de aplicaciones.
-  - Selección adecuada de la fuente de entrada.
-  - Uso funcional de las utilidades.
-
 ---
 
-## 9. Licencia y reutilización
+## 7. Licencia y reutilización
 
-Material reutilizable y adaptable.
-
-Licencia recomendada para GitHub:
-
+Este material puede reutilizarse y adaptarse libremente para formación docente.
 - **Creative Commons BY-SA 4.0**
 
 ---
 
-## 10. Estructura recomendada del repositorio GitHub
-
-```
-/monitor-interactivo-laboratorio-3
-│
-├── README.md   (este documento)
-├── recursos/
-│   └── capturas-ejemplos/
-└── licencia.md
-```
-
----
-
 **Autor/a:** Maite A. González Rodríguez  
-**Contexto:** Laboratorio práctico con alumnado – Monitor interactivo TX90
+**Contexto:** Formación en el uso del monitor interactivo
 
