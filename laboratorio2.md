@@ -46,7 +46,7 @@ Al finalizar el laboratorio, seréis capaces de:
 ## 4. Material necesario
 
 - Monitor interactivo
-- Conexión a red (Ethernet o WiFi)
+- Conexión a Internet
 - Lápiz interactivo (o dedo)
 - Memoria USB con una imagen (opcional)
 
