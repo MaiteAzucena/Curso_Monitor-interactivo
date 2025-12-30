@@ -69,7 +69,7 @@ Al finalizar el laboratorio, seréis capaces de:
 1. Acceder a **Selección de fuente de entrada** desde:
    - Menú principal.
    - Menú lateral.
-   - Botonera frontal.
+   - Botones frontales.
 2. Identificar las fuentes disponibles:
    - Android
    - HDMI
@@ -100,7 +100,7 @@ Trabajar, al menos, las siguientes utilidades:
 
 #### 3.3. Voto interactivo
 - Crear una pregunta sencilla.
-- Analizar cómo se podría usar para comprobar comprensión.
+- Analizar cómo se podría usar para comprobar la comprensión de conceptos explicados en una clase.
 
 #### 3.4. Screen capture y Screen recorder
 - Realizar una captura de pantalla.
@@ -138,7 +138,7 @@ El/la docente necesita:
 - Realizar una **captura de pantalla** del ejemplo resuelto para compartirlo posteriormente.
 
 **Cierre reflexivo:**
-El grupo explicará qué herramientas ha utilizado, en qué orden y por qué son adecuadas para una clase práctica con Excel..
+El grupo explicará qué herramientas ha utilizado, en qué orden y por qué son adecuadas para una clase práctica con una hoja de cálculo.
 
 ---
 
