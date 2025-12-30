@@ -58,7 +58,7 @@ Al finalizar el laboratorio, seréis capaces de:
    - Reagrupar aplicaciones en carpetas (p.e. aplicaciones del paquete de Microsoft Office).
 4. (Opcional) Eliminar una aplicación no necesaria.
 
-📌 *Reflexión guiada:* ¿por qué es importante tener el entorno de aplicaciones organizado?
+📌 *Reflexión guiada: ¿por qué es importante tener el entorno de aplicaciones organizado?*
 
 ---
 
