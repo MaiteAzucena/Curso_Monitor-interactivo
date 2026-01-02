@@ -122,6 +122,25 @@ Al finalizar el laboratorio, seréis capaces de:
 
 📌 *Relación con otros módulos:* Administración, FOL, Economía, Informática.
 
+### Fase 6 – Uso de YouTube como recurso didáctico (10–15 min)
+
+**Objetivo:** utilizar YouTube como apoyo a la explicación de contenidos.
+
+1. Abrir Google Chrome desde el monitor.
+2. Acceder a YouTube.
+3. Buscar un vídeo educativo relacionado con la materia (por ejemplo, un vídeo explicativo corto sobre un concepto teórico).
+4. Reproducir el vídeo en pantalla completa.
+5. Utilizar las opciones de reproducción:
+   - Pausar y reanudar el vídeo.
+   - Avanzar o retroceder.
+   - Ajustar el volumen.
+
+🛠️ **Ejemplo de aula:**
+
+> Visualización de un vídeo explicativo breve para introducir un contenido o reforzar una explicación antes de realizar una actividad práctica.
+
+📌 *Reflexión guiada: ¿qué ventajas tiene integrar vídeos de YouTube en una clase presencial?*
+
 ---
 
 ## 6. Actividad integradora final (10–15 min)
