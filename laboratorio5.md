@@ -18,7 +18,7 @@ Al finalizar el laboratorio, seréis capaces de:
 - Acceder a Google Apps desde el monitor interactivo.
 - Iniciar sesión con una cuenta de Google.
 - Utilizar **Google Drive** para abrir y guardar archivos.
-- Trabajar con **Google Docs, Google Slides y Google Sheets**.
+- Trabajar con **Google Docs, Google Slides y Google Sheets. YouTube**.
 - Utilizar **Google Chrome** como navegador principal del monitor.
 
 ### 2.2. Objetivos didácticos
