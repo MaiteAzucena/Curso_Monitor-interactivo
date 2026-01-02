@@ -121,7 +121,7 @@ Al finalizar el laboratorio, seréis capaces de:
 3. Aplicar una fórmula simple (suma o media).
 4. Comentar los resultados en grupo.
 
-📌 *Relación con otros módulos:* Administración, FOL, Economía, Informática.
+📌 *Relación con otras materias:* Administración, FOL, Economía, Informática.
 
 ### Fase 6 – Uso de YouTube como recurso didáctico (10 min)
 
