@@ -1,11 +1,11 @@
-# Laboratorio práctico 5: Trabajo con Google Apps en el monitor TX90
+# Laboratorio práctico 5: Trabajo con Google Apps en el monitor interactivo
 
 ## 1. Descripción general
-Este laboratorio práctico tiene como objetivo que el alumnado aprenda a utilizar las **aplicaciones de Google** desde el monitor interactivo **TRAULUX TX90**, basándose en el **apartado 3.6 – Trabajo con Google apps** del manual.
+Este laboratorio práctico tiene como objetivo que aprendáis a utilizar las **aplicaciones de Google** desde el monitor interactivo.
 
 La actividad se plantea como una **sesión de aula digital completa**, en la que el alumnado utilizará Google Apps para explicar contenidos, realizar actividades colaborativas y presentar resultados, simulando situaciones reales de clase.
 
-Duración estimada: **75–90 minutos**.
+El laboratorio está pensado para realizarse de forma presencial, colaborativa y guiada, con una duración aproximada de 75-90 minutos.
 
 ---
 
@@ -13,7 +13,7 @@ Duración estimada: **75–90 minutos**.
 
 ### 2.1. Objetivos técnicos
 
-Al finalizar el laboratorio, el alumnado será capaz de:
+Al finalizar el laboratorio, seréis capaces de:
 
 - Acceder a Google Apps desde el monitor interactivo.
 - Iniciar sesión con una cuenta de Google.
@@ -29,9 +29,9 @@ Al finalizar el laboratorio, el alumnado será capaz de:
 
 ---
 
-## 3. Contenidos trabajados (Manual TX90)
+## 3. Contenidos trabajados
 
-- 3.6 Trabajo con Google Apps
+- Trabajo con Google Apps
   - Google Chrome
   - Google Drive
   - Google Docs
@@ -42,22 +42,14 @@ Al finalizar el laboratorio, el alumnado será capaz de:
 
 ## 4. Material necesario
 
-- Monitor interactivo TRAULUX TX90
+- Monitor interactivo
 - Conexión a Internet
+- Lápiz interactivo (o dedo)
 - Cuentas de Google (docente y/o alumnado)
-- Lápiz interactivo o dedo
 
 ---
 
-## 5. Organización del alumnado
-
-- Trabajo en **parejas o tríos**.
-- Cada grupo actuará como **equipo de trabajo colaborativo**.
-- El/la docente supervisa y coordina la actividad.
-
----
-
-## 6. Desarrollo del laboratorio
+## 5. Desarrollo del laboratorio
 
 ### Fase 1 – Acceso a Google Apps y Google Chrome (10 min)
 
@@ -132,7 +124,7 @@ Al finalizar el laboratorio, el alumnado será capaz de:
 
 ---
 
-## 7. Actividad integradora final (10–15 min)
+## 6. Actividad integradora final (10–15 min)
 
 **Situación:**
 > El alumnado debe preparar una mini actividad usando Google Apps para explicar un contenido breve.
@@ -146,47 +138,24 @@ El grupo explicará qué herramientas ha utilizado y por qué.
 
 ---
 
-## 8. Cierre y evaluación
+## 7. Cierre y reflexión final
 
-### Puesta en común
+Preguntas para los participantes:
 
 - ¿Qué aplicación os ha resultado más útil?
 - ¿Qué ventajas tiene usar Google Apps en el aula?
 - ¿Qué dificultades técnicas habéis encontrado?
 
-### Evaluación sugerida
-
-- Observación directa.
-- Lista de cotejo:
-  - Acceso correcto a Google Apps.
-  - Uso funcional de Drive.
-  - Manejo básico de Docs, Slides o Sheets.
-
 ---
 
-## 9. Licencia y reutilización
+## 8. Licencia y reutilización
 
-Material reutilizable y adaptable.
-
-Licencia recomendada para GitHub:
+Este material puede reutilizarse y adaptarse libremente para formación docente.
 
 - **Creative Commons BY-SA 4.0**
 
 ---
 
-## 10. Estructura recomendada del repositorio GitHub
-
-```
-/monitor-interactivo-laboratorio-5
-│
-├── README.md   (este documento)
-├── recursos/
-│   └── ejemplos/
-└── licencia.md
-```
-
----
-
 **Autor/a:** Maite A. González Rodríguez  
-**Contexto:** Laboratorio práctico con alumnado – Google Apps – Monitor interactivo TX90
+**Contexto:** Formación en el uso del monitor interactivo
 
