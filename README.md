@@ -30,7 +30,8 @@ Materiales para el curso **El uso del monitor interactivo** para docentes civile
 
 * Trabajo con archivos Office/PDF
 * **LABORATORIO 4**: Uso cotidiano con archivos (Office y PDF)  (30-45 minutos).
-
+* Trabajo con Google Apps
+* **LABORATORIO 5**: Trabajo con Google Apps en el monitor interactivo (75-90 minutos)
 
 ---
 
