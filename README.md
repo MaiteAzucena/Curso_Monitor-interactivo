@@ -21,12 +21,17 @@ Materiales para el curso **El uso del monitor interactivo** para docentes civile
 **Configuración**
 * Software del monitor. Configuración.
 * **LABORATORIO 2**: Configuración del monitor interactivo (60 minutos).
+* El explorador de aplicaciones, la selección de la fuente de entrada y las utilidades integradas.
+* **LABORATORIO 3**: Uso operativo avanzado (60-75 minutos).
 
 ---
 
 ## Sesión 3 (2h)
 
-* **LABORATORIO 3**: Uso operativo avanzado (60-75 minutos).
+* Trabajo con archivos Office/PDF
+* **LABORATORIO 4**: Uso cotidiano con archivos (Office y PDF)  (30-45 minutos).
+
+
 ---
 
 ## Sesión 4 (2h)
