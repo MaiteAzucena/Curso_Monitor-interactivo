@@ -12,7 +12,7 @@ Materiales para el curso **El uso del monitor interactivo** para docentes civile
 * Monitor interactivo vs. pizarra digital.
 * Elementos hardware del monitor.
 * Software del monitor. Funcionalidades.
-* **LABORATORIO 1**: Funcionalidades básicas del monitor interactivo.
+* **LABORATORIO 1**: Funcionalidades básicas del monitor interactivo (60-75 minutos).
 
 ---
 
@@ -20,12 +20,13 @@ Materiales para el curso **El uso del monitor interactivo** para docentes civile
 
 **Configuración**
 * Software del monitor. Configuración.
-* **LABORATORIO 2**: Configuración del monitor interactivo.
+* **LABORATORIO 2**: Configuración del monitor interactivo (60 minutos).
 
 ---
 
 ## Sesión 3 (2h)
 
+* **LABORATORIO 3**: Uso operativo avanzado (60-75 minutos).
 ---
 
 ## Sesión 4 (2h)
