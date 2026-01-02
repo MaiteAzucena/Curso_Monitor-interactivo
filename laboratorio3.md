@@ -1,4 +1,4 @@
-# Laboratorio práctico 3: Uso operativo avanzado
+# Laboratorio 3: Uso operativo avanzado
 
 ## 1. Descripción general
 Este laboratorio práctico tiene como finalidad que aprendáis a manejar de forma autónoma y eficiente tres bloques fundamentales del monitor interactivo: el **explorador de aplicaciones**, la **selección de la fuente de entrada** y las **utilidades integradas**.
