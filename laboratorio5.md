@@ -1,4 +1,4 @@
-# Laboratorio práctico 5: Trabajo con Google Apps en el monitor interactivo
+# Laboratorio 5: Trabajo con Google Apps en el monitor interactivo
 
 ## 1. Descripción general
 Este laboratorio práctico tiene como objetivo que aprendáis a utilizar las **aplicaciones de Google** desde el monitor interactivo.
