@@ -37,6 +37,7 @@ Al finalizar el laboratorio, seréis capaces de:
   - Google Docs
   - Google Slides
   - Google Sheets
+  - YouTube
 
 ---
 
