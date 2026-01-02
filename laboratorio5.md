@@ -51,7 +51,7 @@ Al finalizar el laboratorio, seréis capaces de:
 
 ## 5. Desarrollo del laboratorio
 
-### Fase 1 – Acceso a Google Apps y Google Chrome (5-10 min)
+### Fase 1 – Acceso a Google Apps y Google Chrome (10 min)
 
 **Objetivo:** acceder al entorno de trabajo de Google.
 
@@ -122,7 +122,7 @@ Al finalizar el laboratorio, seréis capaces de:
 
 📌 *Relación con otros módulos:* Administración, FOL, Economía, Informática.
 
-### Fase 6 – Uso de YouTube como recurso didáctico (10-15 min)
+### Fase 6 – Uso de YouTube como recurso didáctico (10 min)
 
 **Objetivo:** utilizar YouTube como apoyo a la explicación de contenidos.
 
