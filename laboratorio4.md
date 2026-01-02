@@ -92,7 +92,7 @@ Al finalizar el laboratorio, seréis capaces de:
 
 ---
 
-## 7. Cierre y reflexión final
+## 6. Cierre y reflexión final
 
 Preguntas para los participantes:
 - ¿Qué ventajas tiene usar documentos digitales frente al papel?
@@ -100,7 +100,7 @@ Preguntas para los participantes:
 
 ---
 
-## 8. Licencia y reutilización
+## 7. Licencia y reutilización
 
 Este material puede reutilizarse y adaptarse libremente para formación docente.
 
