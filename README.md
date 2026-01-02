@@ -18,7 +18,7 @@ Materiales para el curso **El uso del monitor interactivo** para docentes civile
 
 ## Sesión 2 (2h)
 
-**Configuración**
+**Configuración y utilidades**
 * Software del monitor. Configuración.
 * **LABORATORIO 2**: Configuración del monitor interactivo (60 minutos).
 * El explorador de aplicaciones, la selección de la fuente de entrada y las utilidades integradas.
