@@ -1,11 +1,11 @@
-# Laboratorio práctico 4: Trabajo con archivos Office y PDF en el monitor TX90
+# Laboratorio práctico 4: Uso cotidiano con archivos (Office y PDF) 
 
 ## 1. Descripción general
-Este laboratorio práctico, de menor duración que los anteriores, tiene como objetivo que el alumnado aprenda a **abrir, visualizar y utilizar archivos Office y PDF** en el monitor interactivo **TRAULUX TX90**, basándose en el **apartado 3.5 del manual**.
+Este laboratorio práctico, tiene como objetivo fundamental aprender a **abrir, visualizar y utilizar archivos Office y PDF** en el monitor interactivo.
 
 La actividad se contextualiza en una **clase de Inglés**, combinando una breve explicación del docente con la realización de ejercicios por parte del alumnado.
 
-Duración estimada: **30–40 minutos**.
+El laboratorio está pensado para realizarse de forma presencial, colaborativa y guiada, con una duración aproximada de 30-40 minutos.
 
 ---
 
@@ -13,7 +13,7 @@ Duración estimada: **30–40 minutos**.
 
 ### 2.1. Objetivos técnicos
 
-Al finalizar el laboratorio, el alumnado será capaz de:
+Al finalizar el laboratorio, seréis capaces de:
 
 - Abrir documentos **Word, PowerPoint y PDF** desde el monitor.
 - Navegar por un documento (páginas, zoom, desplazamiento).
@@ -27,31 +27,25 @@ Al finalizar el laboratorio, el alumnado será capaz de:
 
 ---
 
-## 3. Contenidos trabajados (Manual TX90)
+## 3. Contenidos trabajados
 
-- 3.5 Trabajo con archivos Office
-- 3.5 Trabajo con archivos PDF
+- Trabajo con archivos Office
+- Trabajo con archivos PDF
 
 ---
 
 ## 4. Material necesario
 
-- Monitor interactivo TRAULUX TX90
+- Monitor interactivo
+- Conexión a Internet
+- Lápiz interactivo (o dedo)
 - Memoria USB con:
   - Un documento Word con ejercicios de inglés
   - Un PDF con una breve explicación gramatical
-- Lápiz interactivo o dedo
 
 ---
 
-## 5. Organización del alumnado
-
-- Trabajo en **gran grupo**, con participación guiada.
-- Intervenciones puntuales de alumnado voluntario en el monitor.
-
----
-
-## 6. Desarrollo del laboratorio
+## 5. Desarrollo del laboratorio
 
 ### Fase 1 – Apertura de un documento Word (10 min)
 
@@ -100,6 +94,7 @@ Al finalizar el laboratorio, el alumnado será capaz de:
 
 ## 7. Cierre y reflexión final
 
+Preguntas para los participantes:
 - ¿Qué ventajas tiene usar documentos digitales frente al papel?
 - ¿En qué otras materias se podrían usar archivos PDF u Office?
 
@@ -107,28 +102,12 @@ Al finalizar el laboratorio, el alumnado será capaz de:
 
 ## 8. Licencia y reutilización
 
-Material reutilizable y adaptable.
-
-Licencia recomendada para GitHub:
+Este material puede reutilizarse y adaptarse libremente para formación docente.
 
 - **Creative Commons BY-SA 4.0**
 
 ---
 
-## 9. Estructura recomendada del repositorio GitHub
-
-```
-/monitor-interactivo-laboratorio-4
-│
-├── README.md   (este documento)
-├── recursos/
-│   ├── ejercicios-ingles.docx
-│   └── explicacion-gramatica.pdf
-└── licencia.md
-```
-
----
-
 **Autor/a:** Maite A. González Rodríguez  
-**Contexto:** Laboratorio breve con alumnado – Clase de Inglés – Monitor interactivo TX90
+**Contexto:** Formación en el uso del monitor interactivo
 
