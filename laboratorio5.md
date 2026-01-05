@@ -1,4 +1,4 @@
-# Laboratorio 4: Uso cotidiano con archivos (Office y PDF) 
+# Laboratorio 5: Uso cotidiano con archivos (Office y PDF) 
 
 ## 1. Descripción general
 Este laboratorio práctico, tiene como objetivo fundamental aprender a **abrir, visualizar y utilizar archivos Office y PDF** en el monitor interactivo.
