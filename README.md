@@ -21,21 +21,24 @@ Materiales para el curso **El uso del monitor interactivo** para docentes civile
 **Configuración y utilidades**
 * Software del monitor. Configuración.
 * **LABORATORIO 2**: Configuración del monitor interactivo (60 minutos).
-* El explorador de aplicaciones, la selección de la fuente de entrada y las utilidades integradas.
-* **LABORATORIO 3**: Uso operativo avanzado (60-75 minutos).
+* EsharePRO.
+* **LABORATORIO 3**: Mirroring – Proyección inalámbrica en el monitor interactivo (45 minutos).
 
 ---
 
 ## Sesión 3 (2h)
 
+* El explorador de aplicaciones, la selección de la fuente de entrada y las utilidades integradas.
+* **LABORATORIO 4**: Uso operativo avanzado (60-75 minutos).
 * Trabajo con archivos Office/PDF
-* **LABORATORIO 4**: Uso cotidiano con archivos (Office y PDF)  (30-45 minutos).
-* Trabajo con Google Apps
-* **LABORATORIO 5**: Trabajo con Google Apps en el monitor interactivo (75-90 minutos)
+* **LABORATORIO 5**: Uso cotidiano con archivos (Office y PDF)  (30-45 minutos).
 
 ---
 
 ## Sesión 4 (2h)
+
+* Trabajo con Google Apps
+* **LABORATORIO 6**: Trabajo con Google Apps en el monitor interactivo (75-90 minutos).
 
 ---
 
