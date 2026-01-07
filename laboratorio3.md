@@ -118,7 +118,7 @@ Al finalizar el laboratorio, seréis capaces de:
 
 ---
 
-## 5. Cierre y reflexión final (5 min)
+## 5. Cierre y reflexión final
 
 Preguntas para los participantes:
 
