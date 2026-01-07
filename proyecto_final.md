@@ -45,7 +45,7 @@ Debéis **diseñar una clase** de una de las materias que impartís habitualment
 
 La clase diseñada deberá seguir, de forma orientativa, la siguiente estructura:
 
-### 4.1. Introducción y contextualización (10–15 min)
+### Fase 1 - Introducción y contextualización (10–15 min)
 
 - Presentación del tema.
 - Activación de conocimientos previos.
@@ -53,7 +53,7 @@ La clase diseñada deberá seguir, de forma orientativa, la siguiente estructura
 
 ---
 
-### 4.2. Parte expositiva del docente (30–40 min)
+### Fase 2 - Parte expositiva del docente (30–40 min)
 
 El docente explicará los contenidos principales utilizando el monitor interactivo.
 
@@ -65,7 +65,7 @@ Debe incluir, al menos, **dos de los siguientes elementos**:
 
 ---
 
-### 4.3. Actividad práctica del alumnado (40–45 min)
+### Fase 3 - Actividad práctica del alumnado (40–45 min)
 
 El alumnado realizará una actividad práctica guiada, utilizando el monitor como apoyo.
 
@@ -77,7 +77,7 @@ Ejemplos:
 
 ---
 
-### 4.4. Cierre y evaluación (10–15 min)
+### Fase 4 - Cierre y evaluación (10–15 min)
 
 - Puesta en común.
 - Resolución de dudas.
