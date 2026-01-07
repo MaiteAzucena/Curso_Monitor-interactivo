@@ -25,7 +25,7 @@ Cada uno de vosotros deberá demostrar que es capaz de:
 
 - Diseñar una sesión didáctica coherente y estructurada.
 - Integrar el monitor interactivo de forma **pedagógica**, no solo técnica.
-- Fomentar la participación activa del alumnado.
+- Fomentar la participación del alumnado.
 - Relacionar la tecnología con los contenidos propios de la materia impartida.
 
 ---
