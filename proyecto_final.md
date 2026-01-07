@@ -3,7 +3,7 @@
 ## 1. Descripción general del proyecto
 Este proyecto final tiene como objetivo comprobar que habéis adquirido y comprendido los **conceptos, funcionalidades y posibilidades didácticas del monitor interactivo**, trabajados a lo largo de los distintos laboratorios del curso.
 
-El proyecto consistirá en el **diseño y desarrollo de una clase completa**, perteneciente a una materia real impartida por cada uno de vosotros, utilizando el monitor interactivo como **herramienta central de E/A**.
+El proyecto consistirá en el **diseño y desarrollo de una clase completa** (un periodo lectivo), perteneciente a una materia real impartida por cada uno de vosotros, utilizando el monitor interactivo como **herramienta central de E/A**.
 
 Duración total del proyecto: **2 horas**.
 
