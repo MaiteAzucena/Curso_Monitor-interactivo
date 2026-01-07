@@ -46,7 +46,7 @@ Materiales para el curso **El uso del monitor interactivo** para docentes civile
 
 **Proyecto final y cierre**
 
-* *Sesión no presencial*
+* *Sesión no presencial:*
 En esta sesión, los participantes trabajarán en el desarrollo de un proyecto práctico. El objetivo será diseñar una clase real correspondiente a una de las materias que cada docente imparte habitualmente. Esta actividad les permitirá aplicar los contenidos del curso en un contexto real y práctico, fomentando la creatividad y el uso de las herramientas aprendidas.
 
 
