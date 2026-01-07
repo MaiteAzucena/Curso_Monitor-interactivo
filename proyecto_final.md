@@ -1,9 +1,9 @@
-# Proyecto final: Diseño y desarrollo de una clase con monitor interactivo TX90
+# Proyecto final: Diseño y desarrollo de una clase con monitor interactivo
 
 ## 1. Descripción general del proyecto
-Este proyecto final tiene como objetivo comprobar que los participantes han adquirido y comprendido los **conceptos, funcionalidades y posibilidades didácticas del monitor interactivo TX90**, trabajados a lo largo de los distintos laboratorios del curso.
+Este proyecto final tiene como objetivo comprobar que habéis adquirido y comprendido los **conceptos, funcionalidades y posibilidades didácticas del monitor interactivo**, trabajados a lo largo de los distintos laboratorios del curso.
 
-El proyecto consistirá en el **diseño y desarrollo de una clase completa**, perteneciente a una materia real impartida por cada participante, utilizando el monitor interactivo como **herramienta central de enseñanza y aprendizaje**.
+El proyecto consistirá en el **diseño y desarrollo de una clase completa**, perteneciente a una materia real impartida por cada uno de vosotros, utilizando el monitor interactivo como **herramienta central de E/A**.
 
 Duración total del proyecto: **2 horas**.
 
@@ -13,7 +13,7 @@ Duración total del proyecto: **2 horas**.
 
 ### 2.1. Objetivos técnicos
 
-El participante deberá demostrar que es capaz de:
+Cada uno de vosotros deberá demostrar que es capaz de:
 
 - Manejar con soltura las **funcionalidades generales del monitor interactivo**.
 - Configurar correctamente el monitor según las necesidades de la sesión.
@@ -32,16 +32,16 @@ El participante deberá demostrar que es capaz de:
 
 ## 3. Planteamiento del proyecto
 
-Cada participante deberá **diseñar una clase** de una de las materias que imparte habitualmente (por ejemplo: Inglés, FOL, Administración, Informática, etc.), cumpliendo los siguientes requisitos:
+Debéis **diseñar una clase** de una de las materias que impartís habitualmente (por ejemplo: Inglés, FOL, Administración, Electricidad, Mecánica, etc.), cumpliendo los siguientes requisitos:
 
-- Uso real y justificado del **monitor interactivo TX90**.
+- Uso real y justificado del **monitor interactivo**.
 - Existencia de una **parte expositiva** (docente).
 - Existencia de una **parte práctica o participativa** (alumnado).
 - Integración de varias funcionalidades vistas en los laboratorios.
 
 ---
 
-## 4. Estructura obligatoria de la clase (2 horas)
+## 4. Estructura de la clase (2 horas)
 
 La clase diseñada deberá seguir, de forma orientativa, la siguiente estructura:
 
@@ -127,14 +127,13 @@ El proyecto se evaluará teniendo en cuenta los siguientes aspectos:
 
 ---
 
-## 8. Recomendaciones finales
+## 8. Licencia y reutilización
 
-- Prioriza el uso **didáctico** del monitor frente al uso puramente técnico.
-- Justifica siempre por qué utilizas una herramienta u otra.
-- Diseña actividades realistas y aplicables a tu aula.
+Este material puede reutilizarse y adaptarse libremente para formación docente.
+
+- **Creative Commons BY-SA 4.0**
 
 ---
 
 **Autor/a:** Maite A. González Rodríguez  
-**Contexto:** Proyecto final del curso – Uso del monitor interactivo TX90
-
+**Contexto:** Formación en el uso del monitor interactivo
