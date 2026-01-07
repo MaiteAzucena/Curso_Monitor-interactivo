@@ -5,7 +5,7 @@ Este laboratorio práctico, tiene como objetivo fundamental aprender a **abrir, 
 
 La actividad se contextualiza en una **clase de Inglés**, combinando una breve explicación del docente con la realización de ejercicios por parte del alumnado.
 
-El laboratorio está pensado para realizarse de forma presencial, colaborativa y guiada, con una duración aproximada de 30-40 minutos.
+El laboratorio está pensado para realizarse de forma presencial, colaborativa y guiada, con una duración aproximada de 30-45 minutos.
 
 ---
 
