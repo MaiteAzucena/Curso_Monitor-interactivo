@@ -154,7 +154,6 @@ Al finalizar el laboratorio, seréis capaces de:
 3. Añadir a **favoritos**:
    - Pizarra
    - Navegador
-   - Explorador de archivos
 
 > 🎯 Mostrar cómo una buena configuración ahorra tiempo en clase.
 
