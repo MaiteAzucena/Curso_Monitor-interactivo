@@ -124,7 +124,7 @@ Al finalizar el laboratorio, seréis capaces de:
 1. Activar **Active / aplicaciones activas**.
 2. Colocar en **modo Split**:
    - Navegador web (Ley de Ohm)
-   - Pizarra S-Write
+   - Navegador web (Repositorio Github – Laboratorio 1)
 3. Comparar teoría y resolución práctica en paralelo.
 
 > 🎯 Ejemplo didáctico claro de cómo **no perder el contexto teórico** mientras se resuelve un ejercicio.
