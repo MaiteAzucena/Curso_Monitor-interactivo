@@ -81,6 +81,7 @@ Al finalizar el laboratorio, seréis capaces de:
 -- enunciado,
 -- fecha de entrega,
 -- tipo de entrega.
+- Acceder a un vídeo YouTube y comprobar que podemos compartir el audio.
 
 📌 **Aplicación didáctica**: el mirroring permite explicar plataformas educativas reales sin necesidad de cables, facilitando demostraciones en directo y formación entre compañeros.
 
