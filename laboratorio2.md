@@ -104,7 +104,7 @@ Pasos a seguir:
 1. Acceder a **Wallpaper**.
 2. Seleccionar:
    - Un fondo precargado, o
-   - Un fondo personalizado desde USB.
+   - Un fondo personalizado desde USB o buscarlo por Internet.
 3. Establecer el fondo como predeterminado.
 
 🎯 *Relacionar esta opción con la identidad visual del centro educativo.*
@@ -124,7 +124,7 @@ Pasos a seguir:
 
 ---
 
-### Fase 4 – Fecha y hora (Date and Time) (5 min)
+### Fase 5 – Fecha y hora (Date and Time) (5 min)
 
 **Objetivo:** asegurar la coherencia temporal del sistema.
 
@@ -184,6 +184,7 @@ Pasos a seguir:
 3. Revisar **Other**:
    - Bloqueo de botones.
    - Activación/desactivación del icono flotante.
+   - Activación/desactivación de la forma de acceso de la barra lateral.
 
 📌 *Explicar por qué esta información es útil para soporte técnico.*
 
