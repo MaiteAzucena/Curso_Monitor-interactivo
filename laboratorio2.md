@@ -79,7 +79,7 @@ Al finalizar el laboratorio, seréis capaces de:
    - Acceso a Internet (abrir navegador).
 4. Identificar opciones adicionales:
    - Bluetooth.
-   - Hot Spot.
+   - Hot Spot (punto de acceso).
 
 **Ejemplo práctico: Conexión de un móvil por Bluetooth para un listening (clase de Inglés)**
 **Situación**: Eres un(a) profesor(a) que quiere reproducir un audio de listening almacenado en tu teléfono móvil y escucharlo a través de los altavoces del monitor.
