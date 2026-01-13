@@ -66,7 +66,7 @@ Al finalizar el laboratorio, seréis capaces de:
 
 ---
 
-### Fase 2 – Red y conexiones (15 min)
+### Fase 2 – Red y conexiones (Network and Connection) (15 min)
 
 **Objetivo:** asegurar la conectividad del monitor.
 
