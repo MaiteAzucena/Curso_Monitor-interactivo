@@ -97,7 +97,21 @@ Pasos a seguir:
 
 ---
 
-### Fase 3 – Lenguaje y teclado (5 min)
+### Fase 3 – Wallpaper (fondo de pantalla) (10 min)
+
+**Objetivo:** personalizar el entorno visual.
+
+1. Acceder a **Wallpaper**.
+2. Seleccionar:
+   - Un fondo precargado, o
+   - Un fondo personalizado desde USB.
+3. Establecer el fondo como predeterminado.
+
+🎯 *Relacionar esta opción con la identidad visual del centro educativo.*
+
+---
+
+### Fase 4 – Lenguaje y teclado (5 min)
 
 **Objetivo:** adaptar el monitor al idioma del centro.
 
@@ -122,20 +136,6 @@ Pasos a seguir:
 
 🛠️ **Pregunta guía:**
 - ¿Qué problemas puede generar una fecha/hora incorrecta en el aula?
-
----
-
-### Fase 5 – Wallpaper (fondo de pantalla) (10 min)
-
-**Objetivo:** personalizar el entorno visual.
-
-1. Acceder a **Wallpaper**.
-2. Seleccionar:
-   - Un fondo precargado, o
-   - Un fondo personalizado desde USB.
-3. Establecer el fondo como predeterminado.
-
-🎯 *Relacionar esta opción con la identidad visual del centro educativo.*
 
 ---
 
