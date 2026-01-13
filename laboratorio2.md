@@ -32,14 +32,14 @@ Al finalizar el laboratorio, seréis capaces de:
 
 ## 3. Contenidos trabajados
 
-- Red y conexiones
-- Wallpaper (fondo de pantalla)
-- Lenguaje y teclado
-- Date and Time (fecha y hora)
-- Seguridad
-- Power Settings
-- About
-- Other (opciones adicionales)
+- Red y conexiones (Network and Connection)
+- Fondo de pantalla (Wallpaper)
+- Lenguaje y teclado (Language and Input Method)
+- Fecha y hora (Date and Time)
+- Ajustes de seguridad (Security Settings)
+- Ajustes de potencia (Power Settings)
+- Información del monitor (About)
+- Otros (Other) - *opciones adicionales*
 
 ---
 
@@ -97,11 +97,11 @@ Pasos a seguir:
 
 ---
 
-### Fase 3 – Wallpaper (fondo de pantalla) (10 min)
+### Fase 3 – fondo de pantalla (Wallpaper) (10 min)
 
 **Objetivo:** personalizar el entorno visual.
 
-1. Acceder a **Wallpaper**.
+1. Acceder a **Fondo de pantalla**.
 2. Seleccionar:
    - Un fondo precargado, o
    - Un fondo personalizado desde USB o buscarlo por Internet.
@@ -111,11 +111,11 @@ Pasos a seguir:
 
 ---
 
-### Fase 4 – Lenguaje y teclado (5 min)
+### Fase 4 – Lenguaje y teclado (Language and Input Method) (5 min)
 
 **Objetivo:** adaptar el monitor al idioma del centro.
 
-1. Acceder a **Language and Input Method**.
+1. Acceder a **Lenguaje y teclado**.
 2. Configurar:
    - Idioma del sistema.
    - Teclado en español.
@@ -128,7 +128,7 @@ Pasos a seguir:
 
 **Objetivo:** asegurar la coherencia temporal del sistema.
 
-1. Acceder a **Date and Time**.
+1. Acceder a **Fecha y hora**.
 2. Configurar:
    - Zona horaria.
    - Fecha y hora correctas.
@@ -139,11 +139,11 @@ Pasos a seguir:
 
 ---
 
-### Fase 6 – Seguridad (5 min)
+### Fase 6 – Ajustes de Seguridad (Security Settings) (5 min)
 
 **Objetivo:** proteger el acceso al dispositivo.
 
-1. Acceder a **Security Settings**.
+1. Acceder a **Ajustes de Seguridad**.
 2. Identificar las opciones disponibles:
    - Patrón.
    - Contraseña.
@@ -154,11 +154,11 @@ Pasos a seguir:
 
 ---
 
-### Fase 7 – Power Settings (10 min)
+### Fase 7 – Ajustes de potencia (Power Settings) (10 min)
 
 **Objetivo:** optimizar el uso energético y el encendido.
 
-1. Acceder a **Power Settings**.
+1. Acceder a **Ajustes de potencia**.
 2. Configurar:
    - Modo de encendido.
    - Standby.
@@ -173,7 +173,7 @@ Pasos a seguir:
 
 ---
 
-### Fase 8 – About y Other (5 min)
+### Fase 8 – Información del monitor y otros (About y Other) (5 min)
 
 **Objetivo:** conocer la información del sistema.
 
@@ -181,7 +181,7 @@ Pasos a seguir:
 2. Identificar:
    - Versión del sistema.
    - Información del dispositivo.
-3. Revisar **Other**:
+3. Revisar **Otros**:
    - Bloqueo de botones.
    - Activación/desactivación del icono flotante.
    - Activación/desactivación de la forma de acceso de la barra lateral.
