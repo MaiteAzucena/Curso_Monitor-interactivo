@@ -5,7 +5,7 @@ Este laboratorio práctico tiene como objetivo que aprendáis a **configurar y u
 
 La sesión se centra en la conexión inalámbrica desde **diferentes dispositivos habituales en el aula** (PC con Windows, dispositivo Android y dispositivo Apple), simulando situaciones reales de uso docente.
 
-El laboratorio está pensado para realizarse de forma presencial, colaborativa y guiada, con una duración aproximada de 45 - 60 minutos.
+El laboratorio está pensado para realizarse de forma presencial, colaborativa y guiada, con una duración aproximada de 60 minutos.
 
 ---
 
@@ -87,7 +87,7 @@ Al finalizar el laboratorio, seréis capaces de:
 
 ---
 
-### Fase 3 – Mirroring desde un dispositivo Android (10–15 min)
+### Fase 3 – Mirroring desde un dispositivo Android (10 min)
 
 **Objetivo:** proyectar la pantalla de un móvil o tablet Android.
 
@@ -104,7 +104,7 @@ Al finalizar el laboratorio, seréis capaces de:
 
 ---
 
-### Fase 4 – Mirroring desde un dispositivo Apple (10–15 min)
+### Fase 4 – Mirroring desde un dispositivo Apple (10 min)
 
 **Objetivo:** proyectar la pantalla desde dispositivos Apple.
 
@@ -132,6 +132,28 @@ Al finalizar el laboratorio, seréis capaces de:
 En este caso, podemos configurar el *menú Moderador → Visualización, control y anotación inalámbrica → Solo visualización*, para que el alumnado no pueda realizar ninguna modificación desde sus dispositivos.
 
 📌 *Reflexión guiada: ¿En qué contextos educativos puede ser útil compartir la pantalla del monitor con varios dispositivos al mismo tiempo?*
+
+### Fase 5 – Conexión de varios dispositivos de forma simultánea (10 min)
+
+**Objetivo:** Proyectar de forma simultánea la pantalla de varios dispositivos (un PC con Windows, un dispositivo Android y una tablet iPad) en el monitor interactivo, con el fin de analizar sus posibilidades didácticas en el aula.
+
+1.	 Verificar que todos los dispositivos están conectados a la misma red WiFi.
+2.	Iniciar la función Espejo (Mirroring) en cada dispositivo:
+   -	PC con Windows: Conectar a una pantalla inalámbrica.
+   -	Dispositivo Android: Pantalla compartida / Enviar pantalla.
+   -	iPad: Duplicar pantalla (AirPlay).
+3.	Seleccionar el monitor desde cada dispositivo.
+4.	Aceptar la conexión y organizar la visualización en la pantalla del monitor.
+5.	Comprobar que las pantallas de los distintos dispositivos se visualizan de forma simultánea.
+
+🛠️ **Ejemplo de aula:**
+>En una clase el docente proyecta simultáneamente:
+   -	desde el PC, una presentación o documento explicativo;
+   -	desde un móvil Android, una actividad interactiva o aplicación educativa;
+   -	desde un iPad, un contenido multimedia o una demostración realizada por un alumno.
+De este modo, se comparan recursos y se fomenta la participación activa del alumnado utilizando distintos dispositivos.
+
+📌* Reflexión guiada: ¿Qué ventajas ofrece la proyección simultánea de varios dispositivos en el aula?, ¿en qué tipos de actividades o metodologías (trabajo cooperativo, exposiciones, aprendizaje basado en proyectos) podría resultar especialmente útil esta funcionalidad?*
 
 ---
 
