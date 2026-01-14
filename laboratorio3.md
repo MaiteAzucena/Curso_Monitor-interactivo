@@ -5,7 +5,7 @@ Este laboratorio práctico tiene como objetivo que aprendáis a **configurar y u
 
 La sesión se centra en la conexión inalámbrica desde **diferentes dispositivos habituales en el aula** (PC con Windows, dispositivo Android y dispositivo Apple), simulando situaciones reales de uso docente.
 
-El laboratorio está pensado para realizarse de forma presencial, colaborativa y guiada, con una duración aproximada de 45 minutos.
+El laboratorio está pensado para realizarse de forma presencial, colaborativa y guiada, con una duración aproximada de 45 - 60 minutos.
 
 ---
 
@@ -118,6 +118,20 @@ Al finalizar el laboratorio, seréis capaces de:
 
 🛠️ **Ejemplo de aula:**
 > Mostrar una actividad, imagen o vídeo desde un iPad del docente (p.e. un vídeo sobre redes locales - CISCO).
+
+### Fase 5 – Uso del modo TV Mirroring (10 min)
+
+**Objetivo:** Conocer y utilizar la utilidad TV Mirror del monitor para compartir la pantalla del monitor interactivo con otros dispositivos, ampliando las posibilidades de visualización en el aula.
+
+1.	Desde el monitor interactivo, abrir la aplicación Espejo (Mirroring).
+2.	Desde un dispositivo externo (PC, tablet o móvil), abrir la aplicación EShare.
+3.	Comprobar que la pantalla del monitor se visualiza correctamente en el dispositivo externo.
+
+🛠️ **Ejemplo de aula:**
+>El docente activa TV Mirror para que el alumnado pueda seguir la explicación del monitor desde sus propios dispositivos, resultando especialmente útil en aulas grandes, sesiones formativas con muchos asistentes o situaciones de visibilidad limitada.
+En este caso, podemos configurar el menú Moderador  Visualización, control y anotación inalámbrica  Solo visualización, para que el alumnado no pueda realizar ninguna modificación desde sus dispositivos.
+
+📌 *Reflexión guiada: ¿En qué contextos educativos puede ser útil compartir la pantalla del monitor con varios dispositivos al mismo tiempo?*
 
 ---
 
