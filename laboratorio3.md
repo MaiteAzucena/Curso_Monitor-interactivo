@@ -125,8 +125,8 @@ Al finalizar el laboratorio, seréis capaces de:
 
 **Objetivo:** Conocer y utilizar la utilidad TV Mirror del monitor para compartir la pantalla del monitor interactivo con otros dispositivos, ampliando las posibilidades de visualización en el aula.
 
-1.	Desde el monitor interactivo, abrir la aplicación Espejo (Mirroring).
-2.	Desde un dispositivo externo (PC, tablet o móvil), abrir la aplicación EShare.
+1.	Desde el monitor interactivo, abrir la aplicación **Espejo (Mirroring)**.
+2.	Desde un dispositivo externo (PC, tablet o móvil), abrir la aplicación **EShare**.
 3.	Comprobar que la pantalla del monitor se visualiza correctamente en el dispositivo externo.
 
 🛠️ **Ejemplo de aula:**
@@ -141,8 +141,8 @@ En este caso, podemos configurar el *menú Moderador → Visualización, control
 
 **Objetivo:** Proyectar de forma simultánea la pantalla de varios dispositivos (un PC con Windows, un dispositivo Android y una tablet iPad) en el monitor interactivo, con el fin de analizar sus posibilidades didácticas en el aula.
 
-1.	 Verificar que todos los dispositivos están conectados a la misma red WiFi.
-2.	Iniciar la función Espejo (Mirroring) en cada dispositivo:
+1.	 Verificar que todos los dispositivos están conectados a la **misma red WiFi**.
+2.	Iniciar la función **Espejo (Mirroring)** en cada dispositivo:
 	  - PC con Windows: Conectar a una pantalla inalámbrica.
 	  - Dispositivo Android: Pantalla compartida / Enviar pantalla.
 	  - iPad: Duplicar pantalla (AirPlay).
