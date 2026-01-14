@@ -96,7 +96,9 @@ Al finalizar el laboratorio, seréis capaces de:
    - *Pantalla compartida / Enviar pantalla / Smart View* (según fabricante).
 3. Seleccionar el monitor interactivo.
 4. Aceptar la conexión.
-5. Probar la proyección abriendo una aplicación (p.e. un vídeo de YouTube sobre aeromecánica de aviones).
+
+🛠️ **Ejemplo de aula:**
+>  Probar la proyección abriendo una aplicación (p.e. un vídeo de YouTube sobre aeromecánica de aviones).
 
 📌 *Comentar posibles diferencias según la marca del dispositivo.*
 
