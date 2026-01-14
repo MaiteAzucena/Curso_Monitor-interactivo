@@ -15,7 +15,7 @@ El laboratorio está pensado para realizarse de forma presencial, colaborativa y
 
 Al finalizar el laboratorio, seréis capaces de:
 
-- Acceder a la opción de **Mirroring** del monitor.
+- Acceder a la opción de **Espejo (Mirroring)** del monitor.
 - Configurar la proyección inalámbrica desde un **PC con Windows**.
 - Configurar la proyección inalámbrica desde un **dispositivo Android**.
 - Configurar la proyección inalámbrica desde un **dispositivo Apple (iOS / macOS)**.
