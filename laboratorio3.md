@@ -143,19 +143,18 @@ En este caso, podemos configurar el *menú Moderador → Visualización, control
 
 1.	 Verificar que todos los dispositivos están conectados a la misma red WiFi.
 2.	Iniciar la función Espejo (Mirroring) en cada dispositivo:
-	  - iPhone/iPad: *Centro de control → Duplicar pantalla*.
-3.PC con Windows: Conectar a una pantalla inalámbrica.
-   -	Dispositivo Android: Pantalla compartida / Enviar pantalla.
-   -	iPad: Duplicar pantalla (AirPlay).
+	  - PC con Windows: Conectar a una pantalla inalámbrica.
+	  - Dispositivo Android: Pantalla compartida / Enviar pantalla.
+	  - iPad: Duplicar pantalla (AirPlay).
 3.	Seleccionar el monitor desde cada dispositivo.
 4.	Aceptar la conexión y organizar la visualización en la pantalla del monitor.
 5.	Comprobar que las pantallas de los distintos dispositivos se visualizan de forma simultánea.
 
 🛠️ **Ejemplo de aula:**
 >En una clase el docente proyecta simultáneamente:
-> - desde el PC, una presentación o documento explicativo;
-> - desde un móvil Android, una actividad interactiva o aplicación educativa;
-> - desde un iPad, un contenido multimedia o una demostración realizada por un alumno.
+>	- desde el PC, una presentación o documento explicativo;
+>	- desde un móvil Android, una actividad interactiva o aplicación educativa;
+>	- desde un iPad, un contenido multimedia o una demostración realizada por un alumno.
 >De este modo, se comparan recursos y se fomenta la participación activa del alumnado utilizando distintos dispositivos.
 
 📌*Reflexión guiada: ¿Qué ventajas ofrece la proyección simultánea de varios dispositivos en el aula?, ¿en qué tipos de actividades o metodologías (trabajo cooperativo, exposiciones, aprendizaje basado en proyectos) podría resultar especialmente útil esta funcionalidad?*
