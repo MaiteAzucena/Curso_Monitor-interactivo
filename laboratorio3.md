@@ -53,7 +53,7 @@ Al finalizar el laboratorio, seréis capaces de:
 
 1. Encender el monitor interactivo.
 2. Acceder al menú principal.
-3. Abrir la aplicación **Mirroring / Screen Sharing**.
+3. Abrir la aplicación **Espejo (Mirroring) / Screen Sharing**.
 4. Comprobar que el monitor está visible para otros dispositivos.
 
 📌 *Anotar el nombre del dispositivo o código de conexión que muestra el monitor.*
