@@ -129,7 +129,7 @@ Al finalizar el laboratorio, seréis capaces de:
 
 🛠️ **Ejemplo de aula:**
 >El docente activa TV Mirror para que el alumnado pueda seguir la explicación del monitor desde sus propios dispositivos, resultando especialmente útil en aulas grandes, sesiones formativas con muchos asistentes o situaciones de visibilidad limitada.
-En este caso, podemos configurar el menú Moderador / Visualización, control y anotación inalámbrica / Solo visualización, para que el alumnado no pueda realizar ninguna modificación desde sus dispositivos.
+En este caso, podemos configurar el *menú Moderador → Visualización, control y anotación inalámbrica → Solo visualización*, para que el alumnado no pueda realizar ninguna modificación desde sus dispositivos.
 
 📌 *Reflexión guiada: ¿En qué contextos educativos puede ser útil compartir la pantalla del monitor con varios dispositivos al mismo tiempo?*
 
