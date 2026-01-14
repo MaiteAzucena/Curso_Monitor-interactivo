@@ -148,12 +148,12 @@ En este caso, podemos configurar el *menú Moderador → Visualización, control
 
 🛠️ **Ejemplo de aula:**
 >En una clase el docente proyecta simultáneamente:
-   -	desde el PC, una presentación o documento explicativo;
-   -	desde un móvil Android, una actividad interactiva o aplicación educativa;
-   -	desde un iPad, un contenido multimedia o una demostración realizada por un alumno.
-De este modo, se comparan recursos y se fomenta la participación activa del alumnado utilizando distintos dispositivos.
+> - desde el PC, una presentación o documento explicativo;
+> - desde un móvil Android, una actividad interactiva o aplicación educativa;
+> - desde un iPad, un contenido multimedia o una demostración realizada por un alumno.
+>De este modo, se comparan recursos y se fomenta la participación activa del alumnado utilizando distintos dispositivos.
 
-📌* Reflexión guiada: ¿Qué ventajas ofrece la proyección simultánea de varios dispositivos en el aula?, ¿en qué tipos de actividades o metodologías (trabajo cooperativo, exposiciones, aprendizaje basado en proyectos) podría resultar especialmente útil esta funcionalidad?*
+📌*Reflexión guiada: ¿Qué ventajas ofrece la proyección simultánea de varios dispositivos en el aula?, ¿en qué tipos de actividades o metodologías (trabajo cooperativo, exposiciones, aprendizaje basado en proyectos) podría resultar especialmente útil esta funcionalidad?*
 
 ---
 
