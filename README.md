@@ -22,7 +22,7 @@ Materiales para el curso **El uso del monitor interactivo** para docentes civile
 * Software del monitor. Configuración.
 * **LABORATORIO 2**: Configuración del monitor interactivo (60 minutos).
 * EsharePRO.
-* **LABORATORIO 3**: Mirroring – Proyección inalámbrica en el monitor interactivo (45 minutos).
+* **LABORATORIO 3**: Mirroring – Proyección inalámbrica en el monitor interactivo (45 - 60 minutos).
 
 ---
 
