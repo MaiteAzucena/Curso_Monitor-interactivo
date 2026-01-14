@@ -143,7 +143,8 @@ En este caso, podemos configurar el *menú Moderador → Visualización, control
 
 1.	 Verificar que todos los dispositivos están conectados a la misma red WiFi.
 2.	Iniciar la función Espejo (Mirroring) en cada dispositivo:
-   - PC con Windows: Conectar a una pantalla inalámbrica.
+	  - iPhone/iPad: *Centro de control → Duplicar pantalla*.
+3.PC con Windows: Conectar a una pantalla inalámbrica.
    -	Dispositivo Android: Pantalla compartida / Enviar pantalla.
    -	iPad: Duplicar pantalla (AirPlay).
 3.	Seleccionar el monitor desde cada dispositivo.
