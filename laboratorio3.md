@@ -119,6 +119,8 @@ Al finalizar el laboratorio, seréis capaces de:
 🛠️ **Ejemplo de aula:**
 > Mostrar una actividad, imagen o vídeo desde un iPad del docente (p.e. un vídeo sobre redes locales - CISCO).
 
+---
+
 ### Fase 5 – Uso del modo TV Mirroring (10 min)
 
 **Objetivo:** Conocer y utilizar la utilidad TV Mirror del monitor para compartir la pantalla del monitor interactivo con otros dispositivos, ampliando las posibilidades de visualización en el aula.
@@ -133,13 +135,15 @@ En este caso, podemos configurar el *menú Moderador → Visualización, control
 
 📌 *Reflexión guiada: ¿En qué contextos educativos puede ser útil compartir la pantalla del monitor con varios dispositivos al mismo tiempo?*
 
-### Fase 5 – Conexión de varios dispositivos de forma simultánea (10 min)
+---
+
+### Fase 6 – Conexión de varios dispositivos de forma simultánea (10 min)
 
 **Objetivo:** Proyectar de forma simultánea la pantalla de varios dispositivos (un PC con Windows, un dispositivo Android y una tablet iPad) en el monitor interactivo, con el fin de analizar sus posibilidades didácticas en el aula.
 
 1.	 Verificar que todos los dispositivos están conectados a la misma red WiFi.
 2.	Iniciar la función Espejo (Mirroring) en cada dispositivo:
-   -	PC con Windows: Conectar a una pantalla inalámbrica.
+   - PC con Windows: Conectar a una pantalla inalámbrica.
    -	Dispositivo Android: Pantalla compartida / Enviar pantalla.
    -	iPad: Duplicar pantalla (AirPlay).
 3.	Seleccionar el monitor desde cada dispositivo.
