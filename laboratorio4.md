@@ -53,10 +53,13 @@ Al finalizar el laboratorio, seréis capaces de:
 1. Acceder al **explorador de aplicaciones** desde el menú HOME.
 2. Identificar las aplicaciones instaladas.
 3. Realizar las siguientes acciones:
-   - Abrir una aplicación (p.e. Microsoft Excel).
+   - Abrir una aplicación (p.e. un navegador web).
    - Cerrar una aplicación.
-   - Reagrupar aplicaciones en carpetas (p.e. aplicaciones del paquete de Microsoft Office).
+   - Reagrupar aplicaciones en carpetas (p.e. los navegadores web).
 4. (Opcional) Eliminar una aplicación no necesaria.
+5. Instalar una aplicación (p.e. teclado flotante GBoard o Lynx WhiteBoard):
+   - Descargar archivo APK de la aplicación que deseamos instalar. Podemos usar el propio navegador del monitor o realizarlo desde un ordenador para descargarlo e instalarlo desde un lápiz USB.
+   - Ejecutar el instalador.
 
 📌 *Reflexión guiada: ¿por qué es importante tener el entorno de aplicaciones organizado?*
 
