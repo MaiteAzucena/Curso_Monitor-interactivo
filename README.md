@@ -1,5 +1,5 @@
 # 📅 Planificación del curso
-Materiales para el curso **El uso del monitor interactivo** para docentes civiles de la Academia Básica del Aire y del Espacio de León (ABA)
+Materiales para el curso **El uso del monitor interactivo en el aula** para docentes civiles de la Academia Básica del Aire y del Espacio de León (ABA)
 **MODALIDAD**: Presencial
 **DURACIÓN**: 10 horas (8 horas + 2 horas)
 
