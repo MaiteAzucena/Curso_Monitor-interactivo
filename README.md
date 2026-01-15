@@ -55,4 +55,4 @@ En esta sesión, los participantes trabajarán en el desarrollo de un proyecto p
 👉 Con esta planificación:
 
 * **Horas totales** = 4×2h + 1×2h = **10h**.
-* Cada sesión incluye **teoría aplicada + laboratorio**.
+* Cada sesión incluye **teoría aplicada + laboratorio(s)**.
