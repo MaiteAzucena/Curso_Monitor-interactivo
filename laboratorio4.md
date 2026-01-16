@@ -80,6 +80,7 @@ Al finalizar el laboratorio, seréis capaces de:
    - OPS (si está instalado)
 3. Conectar un dispositivo externo (portátil o USB).
 4. Cambiar correctamente a la fuente correspondiente.
+5. Conectar un portátil a un puerto HDMI y a un puerto USB B Touch para que pueda ser operado desde el monitor interactivo.
 
 🛠️ **Supuesto práctico:**
 > El docente llega al aula con su portátil para proyectar una presentación.
