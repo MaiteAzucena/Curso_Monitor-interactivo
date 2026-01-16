@@ -137,7 +137,7 @@ El/la docente necesita:
 - Seleccionar la fuente de entrada correspondiente.
 2. **Uso del explorador de aplicaciones**
 - Abrir, desde Android, una utilidad del monitor (por ejemplo, cronómetro) sin cerrar la proyección del ordenador.
-3.- **Uso de utilidades del monitor**
+3. **Uso de utilidades del monitor**
 - Activar un **cronómetro o cuenta atrás** para marcar el tiempo de la práctica.
 - Utilizar **Spotlight** para destacar una celda concreta (por ejemplo, la fórmula de cálculo).
 - Realizar una **captura de pantalla** del ejemplo resuelto para compartirlo posteriormente.
