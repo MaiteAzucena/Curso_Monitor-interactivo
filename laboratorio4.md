@@ -95,7 +95,8 @@ Al finalizar el laboratorio, seréis capaces de:
 Trabajar, al menos, las siguientes utilidades:
 
 #### 3.1. Cuenta atrás / Cronómetro
-- Configurar una cuenta atrás para una actividad.
+- Configurar una cuenta atrás para la entrega de una actividad y/o para el comienzo de las vacaciones.
+- Cerrar un recordatorio creado.
 - Analizar su uso en trabajos por tiempos.
 
 #### 3.2. Calculadora
