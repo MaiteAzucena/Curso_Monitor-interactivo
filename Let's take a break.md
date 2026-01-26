@@ -1,4 +1,4 @@
-# RECETAS
+# DIETA DEL CURSO
 
 ## RECETA 1: ☕🍪 Galletas danesas
 
