@@ -5,7 +5,7 @@
 **Ingredientes**
 1. 🌾 250 g de harina de repostería
 2. 🌰 50 g de almendra molida
-3. 🍚 110g de azúcar
+3. 🍚 110 g de azúcar
 4. 🧂 1 pellizco de sal
 5. 🧈 160 g de mantequilla
 6. 🥚 1 huevo
