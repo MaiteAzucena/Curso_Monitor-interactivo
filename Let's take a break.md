@@ -18,3 +18,5 @@
 2. Poner todos los ingredientes en un bol y mezclar bien. Después hacer bolitas del tamaño aproximado de una nuez, colocarlas en la bandeja y aplastarlas ligeramente con la base de un vaso (se puede hacer con las manos). Marcar cada galleta con el mango de una cuchara de madera.
 3. Hornear las galletas durante 15-20 minutos (200ºC).
 4. Dejar enfriar y servir.
+
+*(Si tienes Thermomix, busca la receta, es muy sencilla :))*
