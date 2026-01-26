@@ -1,4 +1,5 @@
 # DIETA DEL CURSO
+---
 
 ## RECETA 1: ☕🍪 Galletas danesas
 
@@ -10,8 +11,6 @@
 5. 🧈 160 g de mantequilla
 6. 🥚 1 huevo
 7. 🌼 1 cucharadita (sobre) de azúcar vainillado
-
----
 
 **Preparación**
 1. Precalentar el horno a 200ºC y forrar la bandeja del horno con papel de hornear.
