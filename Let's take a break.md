@@ -1,7 +1,7 @@
-# DIETA DEL CURSO
+## DIETA DEL CURSO
 ---
 
-## RECETA 1: ☕🍪 Galletas danesas
+### RECETA 1: ☕🍪 Galletas danesas
 
 **Ingredientes**
 1. 🌾 250 g de harina de repostería
