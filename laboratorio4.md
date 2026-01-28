@@ -124,7 +124,8 @@ Trabajar, al menos, las siguientes utilidades:
 **Ejemplo práctico: Uso de una hoja de cálculo en una clase de FOL / Administración y Finanzas**
 
 **Situación:**
-> El alumnado está realizando una práctica sencilla con una hoja de cálculo para calcular el presupuesto mensual de una empresa o el salario neto de un trabajador (conceptos habituales en FOL o Administración y Finanzas).
+
+El alumnado está realizando una práctica sencilla con una hoja de cálculo para calcular el presupuesto mensual de una empresa o el salario neto de un trabajador (conceptos habituales en FOL o Administración y Finanzas).
 
 El/la docente necesita:
 - Mostrar un archivo (p.e. de Microsoft Excel) desde su ordenador.
