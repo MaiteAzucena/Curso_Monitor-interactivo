@@ -20,6 +20,8 @@
 
 *(Si tienes Thermomix, busca la receta, es muy sencilla :))*
 
+---
+
 ### RECETA 2: 🎂 Tarta (Roscón de nata)
 
 **Ingredientes**
