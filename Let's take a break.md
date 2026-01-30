@@ -31,7 +31,8 @@
 6. 🧀 Queso mascarpone (1 tarrina, muy frío)
 7. 🥚 Huevo (1 unidad)
 
-**Preparación del hojaldre**
+**Preparación**
+*👩‍🍳 Preparación del hojaldre**
 1. Colocar uno de los hojaldres en una bandeja de horno con su papel de hornear y pintar la superficie con agua usando un pincel de silicona. Colocar el segundo hojaldre encima para que queden pegados.
 2. Pintar la superficie con huevo batido para que quede dorado.
 3. Hornear con calor arriba y abajo a 150 ºC hasta que esté dorado (aprox. 12 minutos, aunque puede necesitar más tiempo).
