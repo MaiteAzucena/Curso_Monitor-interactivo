@@ -82,7 +82,7 @@ Al finalizar el laboratorio, seréis capaces de:
 
 ---
 
-### Fase 3 – Gestión de archivos con Google Drive (15 min)
+### Fase 3 – Gestión de archivos con Google Drive (10 min)
 
 **Objetivo:** organizar y abrir documentos desde la nube.
 
@@ -96,7 +96,7 @@ Al finalizar el laboratorio, seréis capaces de:
 > ¿Cómo ayuda Google Drive a este objetivo?
 
 ---
-### Fase 4 – Trabajo con Google Docs (15-20 min)
+### Fase 4 – Trabajo con Google Docs (15 min)
 
 **Objetivo:** crear y editar un documento colaborativo.
 
@@ -111,7 +111,7 @@ Al finalizar el laboratorio, seréis capaces de:
 
 ---
 
-### Fase 5 – Presentaciones con Google Slides (15–20 min)
+### Fase 5 – Presentaciones con Google Slides (15 min)
 
 **Objetivo:** crear una presentación sencilla.
 
@@ -128,7 +128,7 @@ Al finalizar el laboratorio, seréis capaces de:
 
 ---
 
-### Fase 6 – Datos sencillos con Google Sheets (10–15 min)
+### Fase 6 – Datos sencillos con Google Sheets (10 min)
 
 **Objetivo:** visualizar datos de forma básica.
 
