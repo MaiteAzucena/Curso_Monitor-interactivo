@@ -52,7 +52,7 @@ Al finalizar el laboratorio, seréis capaces de:
 
 ## 5. Desarrollo del laboratorio
 
-### Fase 1 – Acceso a Google Apps y Google Chrome (10 min)
+### Fase 1 – Acceso a Google Apps y Google Chrome (5 min)
 
 **Objetivo:** acceder al entorno de trabajo de Google.
 
@@ -65,7 +65,24 @@ Al finalizar el laboratorio, seréis capaces de:
 
 ---
 
-### Fase 2 – Gestión de archivos con Google Drive (15 min)
+### Fase 2 – Uso de Gmail y envío de archivos locales desde el monitor (10 min)
+
+**Objetivo:** utilizar Gmail desde el monitor interactivo e insertar un archivo almacenado en el almacenamiento local del propio monitor.
+
+1. Acceder a **Gmail**.
+2. Pulsar sobre *Redactar* para crear un nuevo correo.
+3. Introducir un destinatario de prueba y un asunto (por ejemplo, Material de primeros auxilios).
+4. Pulsar el icono *Adjuntar archivo*.
+5. Acceder al almacenamiento local del monitor interactivo.
+6. Seleccionar un archivo previamente guardado (PDF, documento Word, ficha de trabajo, etc.).
+7. Enviar el correo.
+
+🛠️ **Ejemplo de aula:**
+> El docente envía al alumnado, desde el propio monitor, una ficha de ejercicios o las instrucciones de una actividad que se va a realizar a continuación, reproduciendo una situación habitual de aula digital.
+
+---
+
+### Fase 3 – Gestión de archivos con Google Drive (15 min)
 
 **Objetivo:** organizar y abrir documentos desde la nube.
 
@@ -79,8 +96,7 @@ Al finalizar el laboratorio, seréis capaces de:
 > ¿Cómo ayuda Google Drive a este objetivo?
 
 ---
-
-### Fase 3 – Trabajo con Google Docs (15-20 min)
+### Fase 4 – Trabajo con Google Docs (15-20 min)
 
 **Objetivo:** crear y editar un documento colaborativo.
 
@@ -95,7 +111,7 @@ Al finalizar el laboratorio, seréis capaces de:
 
 ---
 
-### Fase 4 – Presentaciones con Google Slides (15–20 min)
+### Fase 5 – Presentaciones con Google Slides (15–20 min)
 
 **Objetivo:** crear una presentación sencilla.
 
@@ -112,7 +128,7 @@ Al finalizar el laboratorio, seréis capaces de:
 
 ---
 
-### Fase 5 – Datos sencillos con Google Sheets (10–15 min)
+### Fase 6 – Datos sencillos con Google Sheets (10–15 min)
 
 **Objetivo:** visualizar datos de forma básica.
 
@@ -123,7 +139,7 @@ Al finalizar el laboratorio, seréis capaces de:
 
 📌 *Relación con otras materias:* Administración, FOL, Economía, Informática.
 
-### Fase 6 – Uso de YouTube como recurso didáctico (10 min)
+### Fase 7 – Uso de YouTube como recurso didáctico (10 min)
 
 **Objetivo:** utilizar YouTube como apoyo a la explicación de contenidos.
 
