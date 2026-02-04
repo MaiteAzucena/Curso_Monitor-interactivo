@@ -22,7 +22,41 @@
 
 ---
 
-### RECETA 2: 🎂 Tarta (Roscón de nata)
+### RECETA 2: ☕🍩 Rosquillas
+
+**Ingredientes**
+Masa:
+1. 🍚 200 g de azúcar
+2. 🍋 10 tiras de piel de limón (solo la parte amarilla)
+3. 🌻 100g de aceite de girasol (y un poco más para engrasar)
+4. 🥚 3 huevos
+5. 🍸 50 g de licor de anís
+6. 🌾 500 g de harina de repostería
+7. 🧁 1 sobre de polvo de hornear
+8. 🧂1 pellizco de sal
+
+Fritura:
+1. 🛢️500 g de aceite para freír
+2. 🍚 100 g de azúcar
+
+**Preparación**
+1. Pulverizar el azúcar y las tiras de limón.
+2. Añadir el aceite de girasol, los huevos y el licor de anís y mezclar todo.
+3. Añadir 250g de harina, la levadura y la sal y volver a mezclar bien.
+4. Incorporar el resto de la harina y mezclar de nuevo.
+5. Retirar a un bol previamente untado con aceite.
+
+Fritura:
+1. Calentar el aceite a fuego medio en una sartén en honda para freír. Con las manos untadas en aceite, formar bolas de 10-12 g (tamaño de una nuez). Únirlas de dos en dos y presionar en el centro con el dedo para formar las rosquillas abriéndolas un poco.
+2. Ir friendo las rosquillas con el aceite caliente.
+3. Escurrirlas sobre un papel de cocina y rebocarlas en azúcar.
+4. Dejar enfriar y servir o conservar en un recipiente hermético.
+
+*(Si tienes Thermomix, busca la receta, es muy sencilla :))*
+
+---
+
+### RECETA 3: 🎂 Tarta (Roscón de nata)
 
 **Ingredientes**
 1. 🥐 Hojaldre de mantequilla (2 láminas, Lidl)
