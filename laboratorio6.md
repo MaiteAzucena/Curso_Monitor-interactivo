@@ -19,7 +19,7 @@ Al finalizar el laboratorio, seréis capaces de:
 - Iniciar sesión con una cuenta de Google.
 - Utilizar **Google Drive** para abrir y guardar archivos.
 - Trabajar con **Google Docs, Google Slides y Google Sheets. YouTube**.
-- Utilizar **Google Chrome** como navegador principal del monitor.
+- Utilizar **Google Chrome (Chromium)** como navegador principal del monitor.
 
 ### 2.2. Objetivos didácticos
 
@@ -32,7 +32,7 @@ Al finalizar el laboratorio, seréis capaces de:
 ## 3. Contenidos trabajados
 
 - Trabajo con Google Apps
-  - Google Chrome
+  - Google Chrome (Chromium)
   - Google Drive
   - Google Docs
   - Google Slides
@@ -52,12 +52,12 @@ Al finalizar el laboratorio, seréis capaces de:
 
 ## 5. Desarrollo del laboratorio
 
-### Fase 1 – Acceso a Google Apps y Google Chrome (5 min)
+### Fase 1 – Acceso a Google Apps y Google Chrome (Chromium) (5 min)
 
 **Objetivo:** acceder al entorno de trabajo de Google.
 
 1. Acceder al **explorador de aplicaciones** del monitor.
-2. Abrir **Google Chrome**.
+2. Abrir **Chromium**.
 3. Iniciar sesión con una cuenta de Google.
 4. Acceder a la página principal de Google Apps.
 
