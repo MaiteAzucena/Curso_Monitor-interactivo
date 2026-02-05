@@ -37,7 +37,7 @@ Desde el monitor interactivo:
 2. Desde el monitor, abre un **documento de Word** almacenado en el ordenador.
 3. Escribe el siguiente texto en el documento:
 
-> *“¡Qué maja es la profe 😊!”*
+> *“¡Qué maja es la profe!”* 😊
 
 ---
 
