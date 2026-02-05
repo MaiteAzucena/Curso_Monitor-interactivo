@@ -1,6 +1,5 @@
-# ¿Cuánto he aprendido?
-## Retos prácticos con el monitor interactivo
-
+# Retos prácticos con el monitor interactivo
+##  ¿Cuánto he aprendido?
 ---
 
 Estos retos tienen como objetivo **comprobar de forma práctica** el grado de dominio adquirido en el uso del monitor interactivo. Cada reto plantea una situación real de aula que deberá resolverse utilizando las funcionalidades trabajadas durante el curso.
