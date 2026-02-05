@@ -1,5 +1,5 @@
-# 🧠 ¿Cuánto he aprendido?
-## Retos prácticos con el monitor interactivo TX90
+# ¿Cuánto he aprendido?
+## Retos prácticos con el monitor interactivo
 
 ---
 
@@ -61,12 +61,13 @@ Desde el monitor interactivo:
 
 ---
 
-📌 **Indicaciones finales**
-- Todos los retos deben realizarse **directamente desde el monitor interactivo**.
-- El docente valorará la **autonomía**, el **uso correcto de las herramientas** y la **resolución de incidencias**.
+## Licencia y reutilización
+
+Este material puede reutilizarse y adaptarse libremente para formación docente.
+- **Creative Commons BY-SA 4.0**
 
 ---
 
-✍️ **Curso:** Uso del Monitor Interactivo TX90  
-👩‍🏫 **Responsable:** Maite A. González Rodríguez
+**Autor/a:** Maite A. González Rodríguez  
+**Contexto:** Formación en el uso del monitor interactivo
 
