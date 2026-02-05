@@ -9,7 +9,7 @@ Estos retos tienen como objetivo **comprobar de forma práctica** el grado de do
 
 ## 🏆 RETO 1: Menús y pizarra digital
 
-### 📌 Enunciado
+### Enunciado
 Utilizando el **menú flotante**, realiza un **recorte de todas las opciones del menú principal HOME** y envía esta captura a la **pizarra digital**.
 
 A continuación:
@@ -20,7 +20,7 @@ A continuación:
 
 ## 🏆 RETO 2: Mirroring – Proyección inalámbrica
 
-### 📌 Enunciado
+### Enunciado
 Desde el monitor interactivo:
 1. Genera un **Hot Spot (punto de acceso inalámbrico)** para compartir Internet con tus compañeros/as.
 2. Utiliza el sistema de **proyección inalámbrica (EsharePRO)** para proyectar la pantalla desde:
@@ -32,7 +32,7 @@ Desde el monitor interactivo:
 
 ## 🏆 RETO 3: Selección de fuentes de entrada
 
-### 📌 Enunciado
+### Enunciado
 1. Conecta un ordenador al monitor interactivo de manera que pueda ser **operado desde el propio monitor**.
 2. Desde el monitor, abre un **documento de Word** almacenado en el ordenador.
 3. Escribe el siguiente texto en el documento:
@@ -43,7 +43,7 @@ Desde el monitor interactivo:
 
 ## 🏆 RETO 4: Active y modo dividido
 
-### 📌 Enunciado
+### Enunciado
 1. Abre **dos aplicaciones simultáneamente**:
    - una **página web** con el contenido que tú elijas;
    - un **archivo PDF** almacenado localmente en el monitor.
@@ -54,7 +54,7 @@ Desde el monitor interactivo:
 
 ## 🏆 RETO 5: Utilidades del monitor
 
-### 📌 Enunciado
+### Enunciado
 1. Lanza una **pregunta interactiva** desde el monitor para que tus compañeros respondan desde sus dispositivos móviles.
 2. Establece un **tiempo de respuesta de 1 minuto**.
 3. Finalizado el tiempo, **comprueba y analiza el resultado obtenido**.
