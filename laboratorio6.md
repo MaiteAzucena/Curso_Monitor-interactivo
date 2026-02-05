@@ -34,9 +34,9 @@ Al finalizar el laboratorio, seréis capaces de:
 - Trabajo con Google Apps
   - Google Chrome (Chromium)
   - Google Drive
-  - Google Docs
-  - Google Slides
-  - Google Sheets
+  - Google Docs (Documentos de Google)
+  - Google Slides (Presentaciones de Google)
+  - Google Sheets (Hojas de cálculo de Google)
   - YouTube
 
 ---
