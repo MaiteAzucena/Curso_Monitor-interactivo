@@ -88,8 +88,8 @@ Al finalizar el laboratorio, seréis capaces de:
 
 1. Acceder a **Google Drive**.
 2. Identificar carpetas y archivos disponibles.
-3. Crear una carpeta nueva para la actividad.
-4. Subir o abrir un documento existente.
+3. Crear una carpeta nueva para la actividad (p.e. una carpeta llamada Curso: Primeros auxilios).
+4. Subir o abrir un documento existente (p.e. subir un documento Word con ejercicios de primeros auxilios).
 
 🛠️ **Supuesto práctico:**
 > El docente quiere que todo el material de la unidad esté accesible desde cualquier aula.
@@ -100,7 +100,7 @@ Al finalizar el laboratorio, seréis capaces de:
 
 **Objetivo:** crear y editar un documento colaborativo.
 
-1. Crear un documento nuevo en **Google Docs**.
+1. Abrir el documento anteriormente subido en **Google Docs (Documentos de Google)**.
 2. Escribir un texto breve (por ejemplo, resumen de un contenido o instrucciones).
 3. Aplicar formato básico:
    - Títulos
@@ -115,7 +115,7 @@ Al finalizar el laboratorio, seréis capaces de:
 
 **Objetivo:** crear una presentación sencilla.
 
-1. Crear una presentación en **Google Slides**.
+1. Crear una presentación en **Google Slides (Presentaciones de Google)**.
 2. Añadir:
    - Título
    - Dos diapositivas de contenido
@@ -132,7 +132,7 @@ Al finalizar el laboratorio, seréis capaces de:
 
 **Objetivo:** visualizar datos de forma básica.
 
-1. Abrir **Google Sheets**.
+1. Abrir **Google Sheets (Hojas de cálculo)**.
 2. Introducir una tabla sencilla (por ejemplo, resultados de una actividad).
 3. Aplicar una fórmula simple (suma o media).
 4. Comentar los resultados en grupo.
