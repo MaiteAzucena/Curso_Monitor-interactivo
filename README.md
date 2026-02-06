@@ -39,6 +39,8 @@ Materiales para el curso **El uso del monitor interactivo en el aula** para doce
 
 * Trabajo con Google Apps
 * **LABORATORIO 6**: Trabajo con Google Apps en el monitor interactivo (75-90 minutos).
+* Practicando lo aprendido...
+* **Retos**
 
 ---
 
