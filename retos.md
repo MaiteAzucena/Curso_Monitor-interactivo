@@ -10,6 +10,8 @@ Los participantes deberán demostrar autonomía en:
  - uso de utilidades;
  - mirroring y trabajo colaborativo.
 
+Para seleccionar qué participantes intervendrán en la resolución de cada reto, se utilizará la aplicación **Wheel of Names** ( https://wheelofnames.com/es ), introduciendo previamente el listado de asistentes. Esta dinámica permitirá asignar turnos de participación de manera aleatoria, fomentando la implicación de todo el grupo.
+
 ---
 
 ## 🏆 RETO 1: Menús y pizarra digital
