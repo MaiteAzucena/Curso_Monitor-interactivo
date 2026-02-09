@@ -49,8 +49,10 @@ Materiales para el curso **El uso del monitor interactivo en el aula** para doce
 **Proyecto final y cierre**
 
 * *Sesión no presencial:*
-En esta sesión, los participantes trabajarán en el desarrollo de un proyecto práctico. El objetivo será diseñar una clase real correspondiente a una de las materias que cada docente imparte habitualmente. Esta actividad les permitirá aplicar los contenidos del curso en un contexto real y práctico, fomentando la creatividad y el uso de las herramientas aprendidas.
+La quinta sesión tendrá carácter no presencial y estará dedicada al diseño completo del proyecto final. Cada participante elaborará una propuesta de clase correspondiente a una materia real de su práctica docente, integrando el monitor interactivo como elemento central de la enseñanza.
+El objetivo de esta fase es trasladar todo lo aprendido en los laboratorios a una planificación didáctica realista, coherente y aplicable directamente en el aula.
 
+*Dado que no se dispone de monitores interactivos en todas las aulas, parte de estos proyectos se experimentarán previamente en la **Sesión 4**, mediante la resolución de retos y simulaciones planteadas por el docente. De esta manera se garantiza que las propuestas finales parten de una experiencia práctica previa y viable.*
 
 ---
 
