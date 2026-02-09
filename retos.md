@@ -3,6 +3,12 @@
 ---
 
 Estos retos tienen como objetivo **comprobar de forma práctica** el grado de dominio adquirido en el uso del monitor interactivo. Cada reto plantea una situación real de aula que deberá resolverse utilizando las funcionalidades trabajadas durante el curso.
+Además de resolver los ejercicios planteados, esta sesión servirá como espacio de puesta en práctica de parte de los proyectos diseñados individualmente, permitiendo validar ideas, metodologías y decisiones técnicas en un entorno real con monitor disponible.
+Los participantes deberán demostrar autonomía en:
+ - manejo de aplicaciones;
+ - selección de fuentes de entrada;
+ - uso de utilidades;
+ - mirroring y trabajo colaborativo.
 
 ---
 
