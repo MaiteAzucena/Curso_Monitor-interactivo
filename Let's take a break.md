@@ -91,3 +91,22 @@ Fritura:
 ✅ ¡Listo para comer!
 
 ℹ️ La mermelada es opcional. Si se prefiere un sabor menos dulce, la tarta solo con nata también está deliciosa.
+
+---
+
+### RECETA 4: Picoteo salado...
+
+**Ingredientes**
+1. 🍖 Chorizo
+2. 🧀 Queso
+3. 🍟 Picos de pan
+4. 🥖 Pan
+
+**Preparación**
+1. Se corta el chorizo.
+2. Se corta el queso.
+3. Se corta el pan.
+4. Se preparan los picos.
+5. Se presenta todo.
+
+✅ ¡Listo para comer!
